@@ -1,0 +1,36 @@
+body{
+background-color:rgb(208, 36, 202);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+ ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+color: black
+ }
+ a {
+color: black;
+text-decoration: none;
+ }
+ img{
+width: 150px;
+height: 150px;
+border-radius: 80px;
+border: 5px solid rgb(48, 214, 48);
+
+ }
+ .center{
+text-align: center;
+
+ }
+ h1{
+color: rgb(34, 150, 34);
+ } 
+ p{
+font-size: 30PX;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
